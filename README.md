@@ -9,8 +9,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UQvnG2s63d0hqeoBAcKeOfTJZoC1asLw/view?usp=drive_link](https://drive.google.com/file/d/1UQvnG2s63d0hqeoBAcKeOfTJZoC1asLw/view?usp=drive_link)
 
-- ⚡ Fun fact **I am an IITian & 2x National Medallist in Speed Skating**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chinmaypillai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chinmaypillai" height="30" width="40" /></a>
