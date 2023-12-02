@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chinmay Pillai</h1>
 <h3 align="center">A curious developer whose very passionate to learn and develop skills</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaypillai&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaypillai" /> </p>
+
 - 🌱 I’m currently learning **Gen AI, AWS, Docker**
 
 - 💬 Ask me about **Machine Learning, DSA, Full-Stack Development**
