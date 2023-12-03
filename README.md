@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chinmay Pillai</h1>
 <h3 align="center">A curious developer whose very passionate to learn and develop skills</h3>
 
-- 🌱 I’m currently learning **Gen AI, AWS, Docker**
+- 🌱 I’m currently learning **Generative AI, AWS, Docker**
 
 - 💬 Ask me about **Machine Learning, DSA, Full-Stack Development**
 
