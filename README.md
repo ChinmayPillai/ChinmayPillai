@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chinmay Pillai</h1>
 <h3 align="center">A curious developer whose very passionate to learn and develop skills</h3>
 
-- 🌱 I’m currently learning **Computer Vision, Image Processing and attaining proficiency in DSA**
+- 🌱 I’m currently learning **Computer Vision, Image Processing, AWS and attaining proficiency in DSA**
 
 - 💬 Ask me about **Machine Learning, DSA, Full-Stack Development**
 
