@@ -116,7 +116,7 @@
   <img class="img" src="https://leetcode-badge-showcase.vercel.app/api?username=chinmaypillai" alt="LeetCode Badges" />&nbsp;
   <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaypillai&" alt="chinmaypillai" />
 </div>
-<div align="center">
+<!-- <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmaypillai&show_icons=true&locale=en&layout=compact" alt="chinmaypillai" />
-</div>
+</div> -->
 
