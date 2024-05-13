@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Chinmay Pillai</h1>
 <h3 align="center">A curious developer whose very passionate to learn and develop skills</h3>
 
-- 🌱 I’m currently learning **OpenCV, AWS, DevOps and attaining proficiency in DSA**
+- 🌱 I’m currently **attaining proficiency in DSA**
 
-- 💬 Ask me about **Machine Learning, DSA, Full-Stack Development**
+- 💬 Ask me about **Machine Learning, DSA, Full-Stack Development, Blockchain**
 
 - 📫 How to reach me **chinmay.pillai@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UQvnG2s63d0hqeoBAcKeOfTJZoC1asLw/view?usp=drive_link](https://drive.google.com/file/d/1UQvnG2s63d0hqeoBAcKeOfTJZoC1asLw/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U7e5V5oUhajBXn1k45he0e7jPuybtEG8/view)
 
 <br/>
 
